@@ -318,11 +318,13 @@ As of January 2026, wallets that have adopted this new ₿-only format include:
  - [Cashu.Me](https://x.com/callebtc/status/1930324534172999809)
  - [Lexe](https://x.com/lexeapp/status/1963275796849492077)
  - [Agicash](https://alpha.agi.cash/)
- - [Cash App](https://x.com/milessuter/status/1989792769406361926)
  - [Alby Hub](https://albyhub.com/)
  - [Ecash App](https://ecash.love/)
+ - [Cash App](https://x.com/blocks/status/2017251327412408671)
+ - [Square](https://x.com/blocks/status/2017251327412408671)
+ - [Bitkey](https://x.com/blocks/status/2017251327412408671)
 
-In November 2025, [Square](https://squareup.com/us/en/bitcoin) launched bitcoin payments support in their point-of-sale software in the US. It adopts the ₿-only format by default in the merchant-facing product, customer-facing UI and on printed receipts.  
+Notably, on January 30, 2026 Block Inc [announced](https://x.com/blocks/status/2017251327412408671) a change from using "sats" to "₿" across its Cash App, Square and Bitkey product suite, citing the rationale in [this blog post](https://spiralbtc.substack.com/p/bringing-to-the-world). 
 
 ---
 
